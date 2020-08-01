@@ -42,3 +42,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React SSR App documentation](https://create-react-ssr-app.dev/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Performace In Desktop
+
+![alt text](https://github.com/akash22396/spacexapp/blob/master/1.png?raw=true)
+
+## Performace In Mobile
+
+![alt text](https://github.com/akash22396/spacexapp/blob/master/2.png?raw=true)
